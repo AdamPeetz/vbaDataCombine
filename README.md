@@ -1,1 +1,1 @@
-VBA to take data from MinorS1, MinorS2, MinorS3 tables and compile it in the Aggro spreadsheet. Relies on standard(ish) table naming convention for tables and columns in Minor spreadsheets to loop through and add columns.
+VBA to take data from MinorS1, MinorS2, MinorS3 spreadsheets and compile it in the Aggro spreadsheet. Relies on standard(ish) table naming convention for tables and columns in Minor spreadsheets to loop through and add columns.
